@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Build files
+*.exe
+*.out
+*.o
+
+# Generated runtime/data files
+result.txt
+request.txt
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,52 @@
+PATH:
+VNR College --> Bachupally --> Miyapur --> JNTU
+
+DISTANCE: 21.14 km
+TIME: 34 min
+
+DIRECTIONS:
+
+
+=== VNR College -> Bachupally ===
+Turn Left and continue for 152 m
+Turn Left and continue for 819 m
+Turn Right and continue for 176 m
+Turn Right and continue for 94 m
+Turn Right and continue for 277 m
+Turn Left and continue for 724 m
+Turn Right and continue for 3337 m
+Turn Right and continue for 1334 m
+Turn Right and continue for 86 m
+Turn Left and continue for 254 m
+Turn Left and continue for 369 m
+Turn Right and continue for 82 m
+Turn Left and continue for 0 m
+
+=== Bachupally -> Miyapur ===
+Turn Left and continue for 65 m
+Turn Right and continue for 206 m
+Turn Left and continue for 1669 m
+Turn Right and continue for 815 m
+Continue Straight for 1795 m
+Continue Straight for 3107 m
+Continue Straight for 82 m
+Turn Left and continue for 56 m
+Turn Left and continue for 58 m
+Turn Right and continue for 724 m
+Turn Left and continue for 143 m
+Turn Right and continue for 26 m
+Destination Reached
+
+=== Miyapur -> JNTU ===
+Continue Straight for 10 m
+Turn Left and continue for 40 m
+Turn Right and continue for 16 m
+Turn Left and continue for 77 m
+Turn Left and continue for 624 m
+Continue Straight for 3001 m
+Continue Straight for 312 m
+Continue Straight for 153 m
+Turn Left and continue for 462 m
+Turn Left and continue for 0 m
+
+Destination Reached: JNTU

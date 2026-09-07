@@ -1,0 +1,165 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Segoe UI;
+}
+
+body{
+background:#081224;
+color:white;
+}
+
+.container{
+display:flex;
+height:100vh;
+}
+
+.left-panel{
+width:300px;
+padding:25px;
+background:#0d1729;
+}
+
+.center-panel{
+flex:1;
+padding:25px;
+}
+
+.right-panel{
+width:300px;
+padding:25px;
+background:#0d1729;
+}
+
+.selection-box{
+margin-top:30px;
+}
+
+select{
+width:100%;
+padding:12px;
+margin-top:10px;
+margin-bottom:20px;
+}
+
+button{
+width:100%;
+padding:15px;
+cursor:pointer;
+}
+
+.route-box{
+margin-top:40px;
+}
+
+.graph-area{
+position:relative;
+height:700px;
+margin-top:20px;
+}
+
+.node{
+position:absolute;
+width:120px;
+height:120px;
+border-radius:50%;
+background:#13233d;
+border:2px solid #38bdf8;
+
+
+display:flex;
+justify-content:center;
+align-items:center;
+
+
+}
+
+.route-card{
+
+    background:#0d1729;
+
+    padding:25px;
+
+    border-radius:15px;
+
+    margin-bottom:20px;
+
+    border:1px solid #1e293b;
+}
+
+.route-card h3{
+
+    margin-bottom:15px;
+
+    color:#38bdf8;
+}
+
+#routePath{
+
+    font-size:20px;
+
+    line-height:2;
+}
+
+#directionsBox{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:12px;
+
+    margin-top:10px;
+}
+
+.direction-step{
+
+    background:#13233d;
+
+    padding:12px;
+
+    border-radius:10px;
+
+    border-left:4px solid #38bdf8;
+}
+
+
+.stats{
+
+    display:flex;
+
+    gap:20px;
+
+    margin-top:10px;
+}
+
+.stat-box{
+
+    flex:1;
+
+    background:#13233d;
+
+    padding:20px;
+
+    border-radius:12px;
+
+    text-align:center;
+}
+
+.stat-box h4{
+
+    color:#94a3b8;
+
+    margin-bottom:10px;
+}
+
+.stat-box span{
+
+    font-size:24px;
+
+    font-weight:bold;
+
+    color:#38bdf8;
+}
+

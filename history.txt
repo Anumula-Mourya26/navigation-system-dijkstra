@@ -1,0 +1,6 @@
+VNR College -> Gandimaisamma
+Bachupally -> GSM Mall
+Bachupally -> JNTU
+VNR College -> GSM Mall
+VNR College -> GSM Mall
+VNR College -> JNTU

@@ -1,0 +1,203 @@
+1 2
+left 152 Unnamed_Road
+left 819 Unnamed_Road
+right 176 Unnamed_Road
+right 94 Unnamed_Road
+right 277 Unnamed_Road
+left 724 Unnamed_Road
+right 3337 Service_Road
+right 1334 Unnamed_Road
+right 86 Service_Road
+left 254 Mallampet_Road
+left 369 Unnamed_Road
+right 82 Unnamed_Road
+left 0 Unnamed_Road
+END
+2 1
+right 82 Unnamed_Road
+left 31 Unnamed_Road
+right 338 Unnamed_Road
+right 254 Mallampet_Road
+right 86 Service_Road
+left 1341 Unnamed_Road
+left 3337 Service_Road
+left 724 Unnamed_Road
+right 277 Unnamed_Road
+left 94 Unnamed_Road
+left 176 Unnamed_Road
+left 819 Unnamed_Road
+right 152 Unnamed_Road
+right 0 Unnamed_Road
+END
+2 3
+left 65 Unnamed_Road
+right 206 Unnamed_Road
+left 1669 Mallampet_Road
+right 815 Medak_Road
+straight 1795 Bachupally_Road
+straight 3107 Bollaram_Road
+straight 82 Bollaram_Road
+left 56 Unnamed_Road
+left 58 Unnamed_Road
+right 724 Cine_Town_Lane
+left 143 Unnamed_Road
+right 26 Unnamed_Road
+arrive 0 Unnamed_Road
+END
+3 2
+straight 10 Unnamed_Road
+left 40 Unnamed_Road
+right 16 Unnamed_Road
+left 77 Unnamed_Road
+left 487 Miyapur_-_Allwyn_Cross_Road_Mumbai_Highway
+left 87 Unnamed_Road
+left 3077 Bollaram_Road
+straight 1830 Bachupally_Road
+straight 776 Unnamed_Road
+left 1761 Mallampet_Road
+right 94 Unnamed_Road
+right 98 Unnamed_Road
+right 63 Unnamed_Road
+left 0 Unnamed_Road
+END
+3 4
+straight 10 Unnamed_Road
+left 40 Unnamed_Road
+right 16 Unnamed_Road
+left 77 Unnamed_Road
+left 387 Miyapur_-_Allwyn_Cross_Road_Mumbai_Highway
+straight 983 Miyapur_-_Allwyn_Cross_Road_Mumbai_Highway
+straight 1238 Allwyn_-_Gangaram_Road_Mumbai_Highway
+left 40 Unnamed_Road
+arrive 0 Unnamed_Road
+END
+4 3
+straight 40 Unnamed_Road
+left 74 Allwyn_-_Gangaram_Road_Mumbai_Highway
+straight 1305 Allwyn_-_Gangaram_Road_Mumbai_Highway
+straight 256 Miyapur_-_Allwyn_Cross_Road_Mumbai_Highway
+left 296 Cine_Town_Lane
+right 143 Unnamed_Road
+right 26 Unnamed_Road
+arrive 0 Unnamed_Road
+END
+3 6
+straight 10 Unnamed_Road
+left 40 Unnamed_Road
+right 16 Unnamed_Road
+left 77 Unnamed_Road
+left 624 Miyapur_-_Allwyn_Cross_Road_Mumbai_Highway
+straight 3001 Nizampet_-_Miyapur_Road_Mumbai_Highway
+straight 312 Nizampet_-_JNTU_Road_Mumbai_Highway
+straight 153 Nizampet_-_JNTU_Road_Mumbai_Highway
+left 462 Unnamed_Road
+left 0 Unnamed_Road
+END
+6 3
+right 462 Unnamed_Road
+left 167 Nizampet_-_JNTU_Road_Mumbai_Highway
+straight 3220 Nizampet_-_Miyapur_Road_Mumbai_Highway
+straight 98 Miyapur_-_Allwyn_Cross_Road_Mumbai_Highway
+left 54 Unnamed_Road
+left 754 Cine_Town_Lane
+left 143 Unnamed_Road
+right 26 Unnamed_Road
+arrive 0 Unnamed_Road
+END
+4 5
+straight 40 Unnamed_Road
+left 74 Allwyn_-_Gangaram_Road_Mumbai_Highway
+straight 1305 Allwyn_-_Gangaram_Road_Mumbai_Highway
+straight 1083 Miyapur_-_Allwyn_Cross_Road_Mumbai_Highway
+left 87 Unnamed_Road
+left 3077 Bollaram_Road
+straight 1830 Bachupally_Road
+straight 776 Unnamed_Road
+left 2023 Mallampet_Road
+right 418 Mallampet_Road
+right 86 Service_Road
+left 103 Unnamed_Road
+right 382 Unnamed_Road
+right 5560 Outer_Ring_Road
+left 376 Unnamed_Road
+right 481 Unnamed_Road
+right 311 Unnamed_Road
+roundabout 46 Unnamed_Road
+straight 100 Unnamed_Road
+right 1397 Unnamed_Road
+left 4506 Unnamed_Road
+right 727 Unnamed_Road
+right 418 Unnamed_Road
+left 236 Unnamed_Road
+arrive 0 Unnamed_Road
+END
+5 4
+straight 654 Unnamed_Road
+left 727 Unnamed_Road
+left 3993 Unnamed_Road
+straight 514 Unnamed_Road
+right 1389 Unnamed_Road
+left 102 Unnamed_Road
+roundabout 33 Unnamed_Road
+left 529 Unnamed_Road
+right 657 Outer_Ring_Road
+right 5428 Outer_Ring_Road
+left 341 Unnamed_Road
+right 137 Service_Road
+left 2438 Mallampet_Road
+right 815 Medak_Road
+straight 1795 Bachupally_Road
+straight 3107 Bollaram_Road
+right 44 Unnamed_Road
+right 1107 Miyapur_-_Allwyn_Cross_Road_Mumbai_Highway
+straight 1238 Allwyn_-_Gangaram_Road_Mumbai_Highway
+left 40 Unnamed_Road
+arrive 0 Unnamed_Road
+END
+6 5
+right 462 Unnamed_Road
+left 167 Nizampet_-_JNTU_Road_Mumbai_Highway
+straight 520 Nizampet_-_Miyapur_Road_Mumbai_Highway
+straight 498 Nizampet_-_Miyapur_Road_Mumbai_Highway
+left 36 Nizampet_Road
+left 5926 Nizampet_Road
+left 96 Unnamed_Road
+straight 126 Unnamed_Road
+left 2023 Mallampet_Road
+right 418 Mallampet_Road
+right 86 Service_Road
+left 103 Unnamed_Road
+right 382 Unnamed_Road
+right 5560 Outer_Ring_Road
+left 376 Unnamed_Road
+right 481 Unnamed_Road
+right 311 Unnamed_Road
+roundabout 46 Unnamed_Road
+straight 100 Unnamed_Road
+right 1397 Unnamed_Road
+left 4506 Unnamed_Road
+right 727 Unnamed_Road
+right 418 Unnamed_Road
+left 236 Unnamed_Road
+arrive 0 Unnamed_Road
+END
+5 6
+straight 654 Unnamed_Road
+left 727 Unnamed_Road
+left 3993 Unnamed_Road
+straight 514 Unnamed_Road
+right 1389 Unnamed_Road
+left 102 Unnamed_Road
+roundabout 33 Unnamed_Road
+left 529 Unnamed_Road
+right 657 Outer_Ring_Road
+right 5428 Outer_Ring_Road
+left 341 Unnamed_Road
+right 137 Service_Road
+left 2524 Mallampet_Road
+straight 5904 Nizampet_Road
+right 277 Nizampet_-_JNTU_Road_Mumbai_Highway
+straight 153 Nizampet_-_JNTU_Road_Mumbai_Highway
+left 462 Unnamed_Road
+left 0 Unnamed_Road
+END

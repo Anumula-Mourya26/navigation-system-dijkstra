@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hyderabad Navigation</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="left-panel">
+
+        <h1>Hyderabad Navigation</h1>
+
+        <div class="selection-box">
+
+            <label>Source</label>
+
+            <select id="source">
+                <option value="1">VNR College</option>
+                <option value="2">Bachupally</option>
+                <option value="3">Miyapur</option>
+                <option value="4">GSM Mall</option>
+                <option value="5">Gandimaisamma</option>
+                <option value="6">JNTU</option>
+            </select>
+
+            <label>Destination</label>
+
+            <select id="destination">
+                <option value="1">VNR College</option>
+                <option value="2">Bachupally</option>
+                <option value="3">Miyapur</option>
+                <option value="4">GSM Mall</option>
+                <option value="5">Gandimaisamma</option>
+                <option value="6">JNTU</option>
+            </select>
+
+            <button id="navigateBtn">
+                Navigate
+            </button>
+
+        </div>
+
+        <div class="route-box">
+
+            <h2>Route Details</h2>
+
+            <div class="stats">
+
+                <div class="stat-box">
+                    <h4>Distance</h4>
+                    <span id="distance">--</span>
+                </div>
+
+                <div class="stat-box">
+                    <h4>Estimated Time</h4>
+                    <span id="time">--</span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="center-panel">
+
+        <h2>Route Information</h2>
+
+        <div class="route-card">
+
+            <h3>Current Route</h3>
+
+            <div id="routePath">
+                No route selected
+            </div>
+
+        </div>
+
+        <div class="route-card">
+
+            <h3>Route Details</h3>
+
+            <p>
+                Distance:
+                <span id="middleDistance">--</span>
+            </p>
+
+            <br>
+
+            <p>
+                Time:
+                <span id="middleTime">--</span>
+            </p>
+
+        </div>
+
+        <div class="route-card">
+
+            <h3>Directions</h3>
+
+            <div id="directionsBox">
+                Click Navigate to generate directions
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="right-panel">
+
+        <h2>Navigation History</h2>
+
+        <div id="historyBox">
+
+            Loading History...
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+
+</html>
